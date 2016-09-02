@@ -1,0 +1,28 @@
+Lesson 1 Notes: Escape Characters in Python
+
+The backslash (\) character is used to escape characters that otherwise have a special meaning
+
+Ex:
+\newline = Ignored
+\\ = Backslash (\)
+\' = Single quote (')
+\" = Double quote (")
+\a = ASCII Bell (BEL)
+\b = ASCII Backspace (BS)
+\f = ASCII Formfeed (FF)
+\n = ASCII Linefeed (LF)
+\r = ASCII Carriage Return (CR)
+\t = ASCII Horizontal Tab (TAB)
+\v = ASCII Vertical Tab (VT)
+\ooo = 	ASCII character with octal value ooo
+\xhh... = ASCII character with hex value hh..
+
+When the prefix 'r' or 'R' is present the backslash will be left in the string
+
+AscII Art:
+
+A graphic design technique which uses computers for presentation
+It consists of piuctures pieced together from the 95 printable (out of 128) characters defined by the ASCII standard
+
+Printable Characters: !@#$%^&*()_+*,-./0123456789:;<=>?ABCDEFGHIJKLMnOPQRSTUVWXYZ[\]'abcdefghijklmnopqrstuvwxyz{|}~
+
