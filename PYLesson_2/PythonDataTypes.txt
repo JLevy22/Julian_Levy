@@ -1,0 +1,16 @@
+﻿Python Data Types
+After learning about variable initialization and assignment, you should be aware that data types are serious business. They can determine the success or failure of your project. Therefore, you should know them extremely well. This document should serve as a quick reference guide for the data types we will be using most often in this class. Research each of the terms below and write their definitions in the boxes below
+ 
+        str : A string is the datatype that represents text
+
+
+	integer: Integers in Python are “signed” integers, meaning they carry no fractional (decimal) part, and can be positive or negative. 
+
+
+	float: In the most simple terms, a float is the datatype of decimal numbers.
+
+
+	list: The most basic data structure in Python is the sequence. Each element of a sequence is assigned a number - its position or index. The first index is zero, the second index is one, etc.
+
+
+	tuple: A tuple is a sequence of immutable Python objects. Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples cannot be changed unlike lists and tuples use parentheses, whereas lists use square brackets

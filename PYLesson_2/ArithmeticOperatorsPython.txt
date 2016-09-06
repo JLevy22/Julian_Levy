@@ -1,0 +1,25 @@
+﻿Fill in the descriptions below for each operator. You can use this in the future as a reference guide to help you with your labs. 
+
+
+Operator
+	Description
+	
+	+ = x+y=a, this adds 2 varibles together
+	
+
+	- = x-y=a, this subtracts 2 variables
+	
+
+	* = x*y=a, this multiplies 2 variables
+	
+
+	/ = x/y=a, this divides 2 variables
+	
+
+	% =   , this shows the percent of a variable
+	
+
+	** =  , this squares a variable
+	
+
+	// =  , this square roots a variable
