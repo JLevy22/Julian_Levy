@@ -14,4 +14,4 @@ print ("Cube Area:")
 l = 12
 w = 12
 h = 12
-print ("The surface area of the cube is",l*h*w)
+print ("The surface area of the cube is",2*l*w+2*w*h+2*h*l)
