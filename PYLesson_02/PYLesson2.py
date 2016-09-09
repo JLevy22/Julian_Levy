@@ -4,11 +4,13 @@ y = 7
 print (x*y)
 print (" ")
 print ("Concatention:")
-name = "Torrey Pines"
-address = " 3710 Del Mar Heights Rd"
-city = " San Diego"
+name = "Julian Levy"
+address = "3710 Del Mar Heights Rd"
+city = "San Diego"
 zipcode = " 92130"
-print (name+address+city+zipcode)
+print (name)
+print (address)
+print (city+zipcode)
 print(" ")
 print ("Cube Area:")
 l = 12
