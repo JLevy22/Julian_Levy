@@ -1,0 +1,8 @@
+Intro to Functions:
+programs are made of many smaller programs working together
+creating a new function is called defining a function: def functionName ()
+function paramenters allow you to pass data into the function from outside: def functionName (<parameters>)
+                                                                              #statement 1
+                                                                              #statement 2
+                                                                              etc.
+f=float: a number plus a decimal
