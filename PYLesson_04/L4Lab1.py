@@ -1,5 +1,6 @@
 print ("Lab Part 1:Receipt")
-    
+print (" ")
+
 def format (item,price):
     print ("{:>15}\t{:10.2f}".format(item,price))
     
@@ -11,7 +12,7 @@ item3=input("Please enter the third item:")
 item3price=float(input("Please enter the price:"))
 
 subtotal= item1price+item2price+item3price
-tax= subtotal*.08+subtotal
+tax= subtotal*.08
 total= tax+subtotal
 
 print ("__________<Receipt>___________")
