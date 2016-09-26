@@ -1,0 +1,27 @@
+
+
+
+
+Lesson 4. Return Functions:
+
+Return functions give back a value when called, this value can be printed/used in another function/calculation
+Ex. def cube(side):
+	return(side**3)
+    side = int(input("Enter side length of cube:"))
+    print ("Your cube is ",cube(side), "cubic inches")
+
+Instead of printing the function, the return value from outside is printed.
+This can also be used for formatting:
+
+Ex. def format(number):
+	ouptput = "{:5.5f}".format(number)
+	return output
+    num1= 1/3
+    print (format(num1))
+
+
+Lesson 4. Variable Scope:
+Scope: the areas of the program in which a specific variable is callable, which functions are able to use the variable
+Scope is determined by levels of ., if a function is declared the code statements for that function must be underneath the function definition
+Variables are only callable within the function they were created in.
+Global Variables are declared at the beginning(top) of a program and have no indentation. These variables are useable anywhere in the program.
