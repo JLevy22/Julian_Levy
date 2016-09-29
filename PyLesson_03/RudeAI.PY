@@ -1,3 +1,5 @@
+print ("Lesson 3 Lab Part 1:")
+
 print ("Alright I don't have much time so lets get this over with.")
 print ("I am SCAI-42 and I'm here to ask you some questions.")
 

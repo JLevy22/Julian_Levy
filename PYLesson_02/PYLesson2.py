@@ -7,10 +7,13 @@ print ("Concatention:")
 name = "Julian Levy"
 address = "3710 Del Mar Heights Rd"
 city = "San Diego"
+state = "CA"
 zipcode = " 92130"
+addressl = "Address Line 3"
 print (name)
 print (address)
-print (city+zipcode)
+print (city+state+zipcode)
+print (addressl)
 print(" ")
 print ("Cube Area:")
 l = 12
