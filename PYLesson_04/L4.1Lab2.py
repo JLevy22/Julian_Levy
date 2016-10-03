@@ -1,4 +1,4 @@
-print ("Lab Part 4: Subwoofer Boxes:")
+print ("Lab 4.1 Part 2: Subwoofer Boxes:")
 print (" ")
 
 def format (volume):

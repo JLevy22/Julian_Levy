@@ -1,4 +1,4 @@
-print ("Lab Part 2: ID Card")
+print ("Lab 4.0 Part 2: ID Card")
 print (" ")
 
 def format (school,year):

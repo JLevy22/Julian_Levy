@@ -1,4 +1,4 @@
-print ("Lab Part 1:Receipt")
+print ("Lab 4.0 Part 1:Receipt")
 print (" ")
 
 def format (item,price):

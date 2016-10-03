@@ -1,4 +1,4 @@
-print ("Lab Part 3: Compound Intrest")
+print ("Lab 4.1 Part 1: Compound Intrest")
 print (" ")
 
 def format (stat,A,dollars):
