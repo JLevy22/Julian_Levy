@@ -2,7 +2,7 @@ print ("Lab 4.0 Part 1:Receipt")
 print (" ")
 
 def format (item,price):
-    print ("{:>15}\t{:10.2f}".format(item,price))
+    print ("{:>15}\t.....{:10.2f}".format(item,price))
     
 item1=input("Please enter the first item:")
 item1price=float(input("Please enter the price:"))
