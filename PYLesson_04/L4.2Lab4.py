@@ -1,14 +1,14 @@
 print ("Lab 4.2 Part 4: Circle")
 print (" ")
 
-area=0.0
+
+
+def calcArea(r):
+    return(r*(3.14**2)
+
+def areaPrint(r):
+    print("The area of a circle with a radius of is {:0.5f}".format(calcArea(r)))
+
 r=float(input("Please enter the radius of a circle:"))
 
-def calcArea():
-    global area
-    area= 3.14*(r**2)
-
-def numPrint():
-    print("The area of a circle with a radius of",r,"is {:0.5f}".format(area))
-calcArea()
-numPrint()
+areaPrint(r)
