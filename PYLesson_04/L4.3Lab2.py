@@ -10,4 +10,8 @@ def avgCalc():
     global avg
     avg=(num1+num2+num3)/3
 
-def avgPrint
+def avgPrint():
+    print("The average of ",num1,",",num2,", and ",num3," is {:0.5f}".format(avg))
+
+avgCalc()
+avgPrint()
