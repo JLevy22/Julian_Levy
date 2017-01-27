@@ -42,3 +42,16 @@ average_num()
 average()
 
 print("Lab 4")
+def fibonacci_sequence():
+        num = int(input("Please enter your starting number:"))
+        size = int(input("Please enter you sequence size:"))
+        seq = size
+        for 
+
+
+
+
+
+
+
+        

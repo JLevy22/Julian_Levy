@@ -17,7 +17,7 @@ random_numbers()
 
 print("Lab 2")
 def strings():
-	go = input("Please enter 16 words/strings: ")
+	go = input("Please enter 16 words/strings:")
 	spList = go.split(" ")
 	wordsList = []
 	spot = 0
@@ -50,3 +50,23 @@ def x_and_o():
 x_and_o()
 
 print("Lab 4")
+def divisor():
+        output = ""
+        numsList = []
+        for i in range(0, 4):
+                numsList.append([])
+                for j in range(0, 4):
+                        number = randint(1, 100)
+        for nums in numsList:
+                output = ""
+                for num in nums:
+                        output += str(num) + " "
+                print(output)
+        div = input("Please enter a numer: ")
+        count = 0
+        for nums in numsList:
+                for num in nums:
+                        if num % div == 0:
+                                count += 1
+        print("There are ", count, " numbers divisible by ", div, " in the list.")
+divisor()
